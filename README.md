@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 👨‍💻 All of my projects are available at [https://fahimulislam.netlify.com/](https://fahimulislam.netlify.com/)
-
 - 💬 Ask me about **Laravel, React**
 
 - 📫 How to reach me **fahim.code01@gmail.com**
