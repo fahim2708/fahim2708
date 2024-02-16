@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 💬 Ask me about **Laravel, React**
+- 💬 Ask me about **Laravel & React**
 
 - 📫 How to reach me **fahim.code01@gmail.com**
 
