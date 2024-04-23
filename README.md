@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mollah Fahim Ul Islam</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Node JS**
-
-- 💬 Ask me about **Laravel & React**
+- 💬 Ask me about **Laravel & React JS**
 
 - 📫 How to reach me **fahim.code01@gmail.com**
 
