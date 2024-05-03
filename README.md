@@ -31,5 +31,3 @@
 
 <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="git" width="50" height="50"/>  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vs_code" width="80" height="50"/> 
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahim2708&show_icons=true&locale=en&layout=compact" alt="fahim2708" /></p>
