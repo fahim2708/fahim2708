@@ -19,7 +19,7 @@
 
 `BACKEND`
 
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laarvel" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="50" height="50"/>
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="50" height="50"/>
 
 
 `DATABASE`
@@ -29,7 +29,7 @@
 
 `TOOLS
 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vs_code" width="50" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vs_code" width="80" height="50"/> 
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahim2708&show_icons=true&locale=en&layout=compact" alt="fahim2708" /></p>
