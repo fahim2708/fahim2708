@@ -27,7 +27,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
 
 
-`TOOLS
+`TOOLS`
 
 <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="git" width="50" height="50"/>  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vs_code" width="80" height="50"/> 
 
