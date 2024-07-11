@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mollah Fahim Ul Islam</h1>
+<h2 align="center">Hi, I'm Mollah Fahim Ul Islam</h2>
 <h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
 
 <h5 align="left">Connect with me:</h5>
